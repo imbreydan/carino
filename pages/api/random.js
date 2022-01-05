@@ -13,5 +13,5 @@ export default async function getRandomPet(req, res) {
 
   const image = images[Math.floor(Math.random() * images.length)];
 
-  res.status(404).json({ length: images.length, src: image });
+  res.status(200).json({ length: images.length, src: image });
 }
