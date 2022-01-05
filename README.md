@@ -4,7 +4,7 @@ The Italian word for 'cute'
 
 ## About
 
-Website made in NextJs that shows an image of one of my pets. It will eventually be running [here](https://carino.breydan.dev) for all to see. <br>
+Website made in NextJs that shows an image of one of my pets. Currently running [here](https://carino.breydan.dev) for all to see. <br>
 
 ## FAQ
 
